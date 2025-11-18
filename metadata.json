@@ -1,0 +1,5 @@
+{
+  "name": "Factor Pushing Automaton",
+  "description": "A mathematical cellular automaton visualization where numbers evolve based on their Greatest Prime Factors, demonstrating conservation laws and divisibility patterns.",
+  "requestFramePermissions": []
+}
